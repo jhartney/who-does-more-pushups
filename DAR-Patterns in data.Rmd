@@ -41,6 +41,7 @@ Our Research Question is:
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
 
+Both observational methods, as shown below, clearly indicate that skill players are the favorable position when it comes to who can do more pushups. The skill players' boxplot is in a notably higher position than that of the line players'. Therefore, the skill players' median is also notably higher than the median of the line players'. In thw variable analysis of the two groups and their pushup capabolites, their minimums, maximums, as well as their means are remarkably different, with all of those of the skill players being higher. For example, the minimum and maximum of the line players were 6 and 34, respectively. The minimum and maximum of the skill players were 18 and 108, respectively. 
 
 ## Graphical Results
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
