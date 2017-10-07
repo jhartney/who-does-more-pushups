@@ -34,7 +34,7 @@ Our Research Question is:
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-I will be using a box and whisker plot as my graphical means of exploring this data and variable analysis (comparing the numerical factor [amount of pushups] with the factor variables [player positions: linemen & skill players]) as my numerical means of exploring the data. 
+I will be using a box and whisker plot as my graphical means of exploring this data and variable analysis (comparing the numerical factor [amount of pushups] with the factor variables [player positions: linemen & skill players]) as my numerical means of exploring the data. Following these exploratory means, I'll be conducting a t-test and observing the P-value that comes from it to see if I am to reject or fail to reject the null hypothesis. 
 
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
