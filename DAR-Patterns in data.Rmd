@@ -64,7 +64,7 @@ Our alternate hypothesis is:
 t.test(pushups ~ position, data=pushups)
 ```
 
-The P-value calculated by the t-test is approximately .000009421. Since this number is extreeeemely small, the chances of obtaining results like this in a test with potentially different subjects are very slim. Therefore, we reject the null hypothesis. 
+The P-value calculated by the t-test is approximately .000009421. Since this number is extreeeemely small, the chances of obtaining results like this in a test with potentially different subjects are very slim. Therefore, we reject the null hypothesis and favor the alternate hypothesis. This simply means we choose to believe the $H_a$ over the $H_0$ as they are stated above.  
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
