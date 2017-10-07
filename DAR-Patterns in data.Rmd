@@ -48,10 +48,10 @@ Both observational methods, as shown below, clearly indicate that skill players 
 ```{r}
 bwplot(pushups~position,data=pushups,
 main="Who Does More Pushups?",
-xlab="player position")
+xlab="player's position")
 ```
   
-   The points, which represent the medians of the two groups, are in significantly different positions. The median of the skill players is roughly 50 or so whereas the median of the line players is just below 20. By this observation alone, skill players are clearly capable of doing more pushups than line players. The upper hinge of the line players' box plot is at about the same level, maybe just a bit higher than the Q1 of the skill players' box. This indicates that the observations in the study that performed the most amount of pushups in the line players' group are at about the same level as those observations who are at the 2nd percentile in the skill players' group. Basically, the line player capable of doing the most pushups in this group was still far below the average of those in the skill group. 
+   The points, which represent the medians of the two groups, are in significantly different positions. The median of the skill players is roughly 50 or so whereas the median of the line players is just below 20. By this observation alone, skill players are clearly capable of doing more pushups than line players. The upper hinge (the horizontal dotted line that shows the highest value in the set) of the line players' box plot is at about the same level, maybe just a bit higher than the Q1 of the skill players' box. This indicates that the observation in the study that performed the most amount of pushups in the line players' group is at about the same level as those observations who are at the 2nd percentile in the skill players' group. Basically, the line player capable of doing the most pushups in this group was still far below the average of those in the skill group, but is at about the same level of the lowest pushup amount of the observation in the skill players' group who is in the bottom of 50% of his entire group. 
 
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
